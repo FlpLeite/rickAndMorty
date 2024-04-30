@@ -25,4 +25,13 @@ const nextPage = () => {
 </template>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jacquard+12+Charted&display=swap');
+
+.card{
+    margin-top: 10px;
+}
+.text-center{
+    font-family: "Bebas Neue", sans-serif;
+    margin-top: 20px;
+}
 </style>

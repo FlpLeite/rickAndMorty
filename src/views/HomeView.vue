@@ -24,7 +24,7 @@
     <div class="container">
       <div class="row mt-4">
         <div class="col-sm-12 col-md-12">
-          <div class="card">
+          <div class="card border-0">
             <div class="card-body row">
               <ListCharacters v-for="character in characters"
               :key="character.name" 
@@ -52,7 +52,6 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Jersey+20+Charted&display=swap');
-
 /* button{
   padding: 10px;
   margin: 10px;

@@ -5,7 +5,7 @@ let num = ref(0)
 </script>
 
 <template>
-  <nav class="navbar">
+  <nav class="navbar  navbar-expand-lg navbar-dark">
     <div class="container-fluid">
       <router-link class="navbar-brand" to="/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Rick_and_Morty.svg" height="80vh" alt="">
